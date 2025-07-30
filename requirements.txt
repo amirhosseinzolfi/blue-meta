@@ -1,0 +1,20 @@
+# Core Frameworks
+fastapi
+uvicorn
+
+# LangChain and LangGraph
+langchain
+langchain-core
+langchain-openai
+langchain-ollama
+langgraph
+langgraph-checkpoint-sqlite
+
+# Telegram Bot
+python-telegram-bot
+
+# HTTP Client
+httpx
+
+# Pydantic is a dependency of FastAPI, but we list it for clarity
+pydantic
